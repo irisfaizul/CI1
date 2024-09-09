@@ -3,7 +3,7 @@ job('Python-Build-Job') {
 
     // Source Code Management
     scm {
-        git('https://github.com/irisfaizul/python-project.git')
+        git('https://github.com/irisfaizul/CI1/python-project.git')
     }
 
     // Build Triggers
